@@ -1,0 +1,29 @@
+{
+  "name": "cosjs.files",
+  "description": "promise get all files",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "name": "wanchao.huang",
+    "email": "hwclegend@163.com"
+  },
+  "keywords": [ "game", "loader" ],
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "8.0+"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/hwclegend/cosjs.files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hwclegend/cosjs.files/issues"
+  },
+  "homepage": "https://github.com/hwclegend/cosjs.files"
+}
